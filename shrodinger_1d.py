@@ -33,7 +33,7 @@ for n in range(3):
     plt.plot(x[1:], P)
 
 plt.xlabel('x')
-plt.ylabel('ψ(x)')
+plt.ylabel('Probability')
 plt.title('Wavefunctions')
 plt.legend()
 plt.grid(True)
